@@ -1,0 +1,72 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: black;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  text-align: center;
+  padding: 20px 0;
+}
+
+#date, #time {
+  font-size: 20px;
+  color: white;
+  font-weight: bold;
+  margin: 5px 0;
+}
+
+table {
+  width: 50%;
+  margin: 20px auto;
+  border-collapse: collapse;
+  background-color: black;
+  color: white;
+  border: 2px solid lime;
+  font-size: 18px;
+}
+
+th, td {
+  border: 1px solid lime;
+  padding: 10px;
+  text-align: center;
+}
+
+th {
+  color: white;
+  background-color: black;
+}
+
+td {
+  background-color: black;
+  color: white;
+}
+
+.store {
+  color: white;
+  font-weight: bold;
+}
+
+.total {
+  background-color: black;
+  color: cyan;
+  font-weight: bold;
+}
+
+#shareBtn {
+  background-color: #00ffcc;
+  color: black;
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-top: 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+#shareBtn:hover {
+  background-color: #00e6b8;
+}
