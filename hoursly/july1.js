@@ -14,7 +14,7 @@ const reportData =  [
       "Yelahanka Mnow":      189,
       "Begur Mnow":          456,
       "Thyagaraja Nagar Mnow": 397,
-      "Marathahalli Mnow":   507,
+      "Brookfield Mnow":   507,
       "JP nagar Mnow":       384,
       "Sarjapur road Mnow":  410
     },
@@ -29,7 +29,7 @@ const reportData =  [
       "Yelahanka Mnow":      170,
       "Begur Mnow":          410,
       "Thyagaraja Nagar Mnow": 357,
-      "Marathahalli Mnow":   456,
+      "Brookfield Mnow":   456,
       "JP nagar Mnow":       345,
       "Sarjapur road Mnow":  369
     },
@@ -44,7 +44,7 @@ const reportData =  [
       "Yelahanka Mnow":      182,
       "Begur Mnow":          441,
       "Thyagaraja Nagar Mnow": 383,
-      "Marathahalli Mnow":   490,
+      "Brookfield Mnow":   490,
       "JP nagar Mnow":       371,
       "Sarjapur road Mnow":  396
     },
@@ -59,7 +59,7 @@ const reportData =  [
       "Yelahanka Mnow":      189,
       "Begur Mnow":          456,
       "Thyagaraja Nagar Mnow": 397,
-      "Marathahalli Mnow":   507,
+      "Brookfield Mnow":   507,
       "JP nagar Mnow":       384,
       "Sarjapur road Mnow":  410
     },
@@ -74,7 +74,7 @@ const reportData =  [
       "Yelahanka Mnow":      222,
       "Begur Mnow":          537,
       "Thyagaraja Nagar Mnow": 467,
-      "Marathahalli Mnow":   597,
+      "Brookfield Mnow":   597,
       "JP nagar Mnow":       452,
       "Sarjapur road Mnow":  483
     },
@@ -89,7 +89,7 @@ const reportData =  [
       "Yelahanka Mnow":      246,
       "Begur Mnow":          594,
       "Thyagaraja Nagar Mnow": 517,
-      "Marathahalli Mnow":   660,
+      "Brookfield Mnow":   660,
       "JP nagar Mnow":       500,
       "Sarjapur road Mnow":  534
     },
@@ -104,7 +104,7 @@ const reportData =  [
       "Yelahanka Mnow":      132,
       "Begur Mnow":          319,
       "Thyagaraja Nagar Mnow": 277,
-      "Marathahalli Mnow":   354,
+      "Brookfield Mnow":   354,
       "JP nagar Mnow":       268,
       "Sarjapur road Mnow":  287
     },
@@ -119,7 +119,7 @@ const reportData =  [
       "Yelahanka Mnow":      165,
       "Begur Mnow":          399,
       "Thyagaraja Nagar Mnow": 347,
-      "Marathahalli Mnow":   443,
+      "Brookfield Mnow":   443,
       "JP nagar Mnow":       335,
       "Sarjapur road Mnow":  358
     },
@@ -134,7 +134,7 @@ const reportData =  [
       "Yelahanka Mnow":      164,
       "Begur Mnow":          396,
       "Thyagaraja Nagar Mnow": 344,
-      "Marathahalli Mnow":   440,
+      "Brookfield Mnow":   440,
       "JP nagar Mnow":       333,
       "Sarjapur road Mnow":  356
     },
@@ -149,7 +149,7 @@ const reportData =  [
       "Yelahanka Mnow":      245,
       "Begur Mnow":          592,
       "Thyagaraja Nagar Mnow": 515,
-      "Marathahalli Mnow":   658,
+      "Brookfield Mnow":   658,
       "JP nagar Mnow":       498,
       "Sarjapur road Mnow":  532
     },
@@ -164,7 +164,7 @@ const reportData =  [
       "Yelahanka Mnow":      225,
       "Begur Mnow":          544,
       "Thyagaraja Nagar Mnow": 473,
-      "Marathahalli Mnow":   604,
+      "Brookfield Mnow":   604,
       "JP nagar Mnow":       458,
       "Sarjapur road Mnow":  489
     },
@@ -179,7 +179,7 @@ const reportData =  [
       "Yelahanka Mnow":      255,
       "Begur Mnow":          616,
       "Thyagaraja Nagar Mnow": 536,
-      "Marathahalli Mnow":   684,
+      "Brookfield Mnow":   684,
       "JP nagar Mnow":       518,
       "Sarjapur road Mnow":  554
     },
@@ -194,7 +194,7 @@ const reportData =  [
       "Yelahanka Mnow":      270,
       "Begur Mnow":          653,
       "Thyagaraja Nagar Mnow": 568,
-      "Marathahalli Mnow":   726,
+      "Brookfield Mnow":   726,
       "JP nagar Mnow":       549,
       "Sarjapur road Mnow":  587
     },
@@ -209,7 +209,7 @@ const reportData =  [
       "Yelahanka Mnow":      175,
       "Begur Mnow":          424,
       "Thyagaraja Nagar Mnow": 369,
-      "Marathahalli Mnow":   471,
+      "Brookfield Mnow":   471,
       "JP nagar Mnow":       357,
       "Sarjapur road Mnow":  381
     },
@@ -224,7 +224,7 @@ const reportData =  [
       "Yelahanka Mnow":      219,
       "Begur Mnow":          528,
       "Thyagaraja Nagar Mnow": 460,
-      "Marathahalli Mnow":   587,
+      "Brookfield Mnow":   587,
       "JP nagar Mnow":       444,
       "Sarjapur road Mnow":  475
     },
@@ -239,7 +239,7 @@ const reportData =  [
       "Yelahanka Mnow":      169,
       "Begur Mnow":          409,
       "Thyagaraja Nagar Mnow": 356,
-      "Marathahalli Mnow":   454,
+      "Brookfield Mnow":   454,
       "JP nagar Mnow":       344,
       "Sarjapur road Mnow":  368
     },
@@ -254,7 +254,7 @@ const reportData =  [
       "Yelahanka Mnow":      184,
       "Begur Mnow":          444,
       "Thyagaraja Nagar Mnow": 387,
-      "Marathahalli Mnow":   494,
+      "Brookfield Mnow":   494,
       "JP nagar Mnow":       374,
       "Sarjapur road Mnow":  400
     },
@@ -269,7 +269,7 @@ const reportData =  [
       "Yelahanka Mnow":      191,
       "Begur Mnow":          462,
       "Thyagaraja Nagar Mnow": 402,
-      "Marathahalli Mnow":   514,
+      "Brookfield Mnow":   514,
       "JP nagar Mnow":       389,
       "Sarjapur road Mnow":  416
     },
@@ -284,7 +284,7 @@ const reportData =  [
       "Yelahanka Mnow":      216,
       "Begur Mnow":          523,
       "Thyagaraja Nagar Mnow": 455,
-      "Marathahalli Mnow":   581,
+      "Brookfield Mnow":   581,
       "JP nagar Mnow":       440,
       "Sarjapur road Mnow":  470
     },
@@ -299,7 +299,7 @@ const reportData =  [
       "Yelahanka Mnow":      217,
       "Begur Mnow":          525,
       "Thyagaraja Nagar Mnow": 457,
-      "Marathahalli Mnow":   584,
+      "Brookfield Mnow":   584,
       "JP nagar Mnow":       442,
       "Sarjapur road Mnow":  472
     },
@@ -314,7 +314,7 @@ const reportData =  [
       "Yelahanka Mnow":      161,
       "Begur Mnow":          388,
       "Thyagaraja Nagar Mnow": 338,
-      "Marathahalli Mnow":   431,
+      "Brookfield Mnow":   431,
       "JP nagar Mnow":       327,
       "Sarjapur road Mnow":  349
     },
@@ -329,7 +329,7 @@ const reportData =  [
       "Yelahanka Mnow":      177,
       "Begur Mnow":          429,
       "Thyagaraja Nagar Mnow": 373,
-      "Marathahalli Mnow":   476,
+      "Brookfield Mnow":   476,
       "JP nagar Mnow":       361,
       "Sarjapur road Mnow":  385
     },
@@ -344,7 +344,7 @@ const reportData =  [
       "Yelahanka Mnow":      196,
       "Begur Mnow":          473,
       "Thyagaraja Nagar Mnow": 412,
-      "Marathahalli Mnow":   526,
+      "Brookfield Mnow":   526,
       "JP nagar Mnow":       398,
       "Sarjapur road Mnow":  426
     },
@@ -359,7 +359,7 @@ const reportData =  [
       "Yelahanka Mnow":      211,
       "Begur Mnow":          511,
       "Thyagaraja Nagar Mnow": 445,
-      "Marathahalli Mnow":   568,
+      "Brookfield Mnow":   568,
       "JP nagar Mnow":       430,
       "Sarjapur road Mnow":  460
     },
@@ -374,7 +374,7 @@ const reportData =  [
       "Yelahanka Mnow":      223,
       "Begur Mnow":          539,
       "Thyagaraja Nagar Mnow": 469,
-      "Marathahalli Mnow":   599,
+      "Brookfield Mnow":   599,
       "JP nagar Mnow":       454,
       "Sarjapur road Mnow":  485
     },
@@ -389,7 +389,7 @@ const reportData =  [
       "Yelahanka Mnow":      256,
       "Begur Mnow":          619,
       "Thyagaraja Nagar Mnow": 538,
-      "Marathahalli Mnow":   688,
+      "Brookfield Mnow":   688,
       "JP nagar Mnow":       521,
       "Sarjapur road Mnow":  556
     },
@@ -404,7 +404,7 @@ const reportData =  [
       "Yelahanka Mnow":      277,
       "Begur Mnow":          670,
       "Thyagaraja Nagar Mnow": 583,
-      "Marathahalli Mnow":   745,
+      "Brookfield Mnow":   745,
       "JP nagar Mnow":       564,
       "Sarjapur road Mnow":  603
     },
@@ -419,7 +419,7 @@ const reportData =  [
       "Yelahanka Mnow":      173,
       "Begur Mnow":          418,
       "Thyagaraja Nagar Mnow": 363,
-      "Marathahalli Mnow":   464,
+      "Brookfield Mnow":   464,
       "JP nagar Mnow":       351,
       "Sarjapur road Mnow":  376
     },
@@ -434,7 +434,7 @@ const reportData =  [
       "Yelahanka Mnow":      193,
       "Begur Mnow":          467,
       "Thyagaraja Nagar Mnow": 407,
-      "Marathahalli Mnow":   519,
+      "Brookfield Mnow":   519,
       "JP nagar Mnow":       393,
       "Sarjapur road Mnow":  420
     },
@@ -449,7 +449,7 @@ const reportData =  [
       "Yelahanka Mnow":      195,
       "Begur Mnow":          472,
       "Thyagaraja Nagar Mnow": 411,
-      "Marathahalli Mnow":   525,
+      "Brookfield Mnow":   525,
       "JP nagar Mnow":       397,
       "Sarjapur road Mnow":  425
     },
@@ -464,7 +464,7 @@ const reportData =  [
       "Yelahanka Mnow":      213,
       "Begur Mnow":          515,
       "Thyagaraja Nagar Mnow": 448,
-      "Marathahalli Mnow":   572,
+      "Brookfield Mnow":   572,
       "JP nagar Mnow":       434,
       "Sarjapur road Mnow":  463
     },
@@ -796,7 +796,7 @@ function processFile() {
             "Yelahanka Mnow", 
             "Begur Mnow", 
             "Thyagaraja Nagar Mnow", 
-            "Marathahalli Mnow", 
+            "Brookfield Mnow", 
             "JP nagar Mnow", 
             "Sarjapur road Mnow"
         ];
@@ -942,7 +942,7 @@ processFile = function() {
             "Yelahanka Mnow", 
             "Begur Mnow", 
             "Thyagaraja Nagar Mnow", 
-            "Marathahalli Mnow", 
+            "Brookfield Mnow", 
             "JP nagar Mnow", 
             "Sarjapur road Mnow"
         ];
@@ -1077,7 +1077,7 @@ processFile = function() {
             "Yelahanka Mnow", 
             "Begur Mnow", 
             "Thyagaraja Nagar Mnow", 
-            "Marathahalli Mnow", 
+            "Brookfield Mnow", 
             "JP nagar Mnow", 
             "Sarjapur road Mnow"
         ];
@@ -1572,7 +1572,7 @@ const finalStores = [
   "Yelahanka Mnow",
   "Begur Mnow",
   "Thyagaraja Nagar Mnow",
-  "Marathahalli Mnow",
+  "Brookfield Mnow",
   "JP nagar Mnow",
   "Sarjapur road Mnow"
 ];

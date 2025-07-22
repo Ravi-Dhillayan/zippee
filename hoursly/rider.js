@@ -53,7 +53,7 @@ document.getElementById('riderSubmitBtn').addEventListener('click', () => {
       'Begur Mnow',
       'JP nagar Mnow',
       'Kalyan nagar',
-      'Marathahalli Mnow',
+      'Brookfield Mnow',
       'Sarjapur road Mnow',
       'Thyagaraja Nagar Mnow',
       'Yelahanka Mnow'
