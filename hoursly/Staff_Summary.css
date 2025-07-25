@@ -1,7 +1,7 @@
 body {
   font-family: 'Segoe UI', sans-serif;
-  background-color: black;
-  color: white;
+  /* background-color: black; */
+  /* color: white; */
   margin: 0;
   padding: 0;
 }
@@ -13,7 +13,7 @@ body {
 
 #date, #time {
   font-size: 20px;
-  color: white;
+  /* color: white; */
   font-weight: bold;
   margin: 5px 0;
 }
@@ -22,10 +22,10 @@ table {
   width: 50%;
   margin: 20px auto;
   border-collapse: collapse;
-  background-color: black;
+  /* background-color: blue; */
   color: white;
   border: 2px solid lime;
-  font-size: 18px;
+  font-size: 28px;
 }
 
 th, td {
@@ -35,23 +35,27 @@ th, td {
 }
 
 th {
-  color: white;
-  background-color: black;
+  /* color: white; */
+  background-color: rgb(115, 115, 231);
 }
 
 td {
-  background-color: black;
-  color: white;
-}
-
-.store {
-  color: white;
+  /* background-color: rgb(17, 51, 218);
+  color: white; */
+  color: black;
+  font-size: 28px;
   font-weight: bold;
 }
 
+.store {
+  background-color: rgb(175, 175, 230);
+  font-weight: bold;
+  color: black
+}
+
 .total {
-  background-color: black;
-  color: cyan;
+  /* background-color: black;
+  color: cyan; */
   font-weight: bold;
 }
 

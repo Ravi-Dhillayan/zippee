@@ -56,7 +56,7 @@ document.getElementById('riderSubmitBtn').addEventListener('click', () => {
       'Brookfield Mnow',
       'Sarjapur road Mnow',
       'Jakkur Mnow',
-      'Yelahanka Mnow'
+      'Jakkur Mnow'
     ];
     riderDataRows = riderDataRows.filter(r => allowedStores.includes(r.store));
 

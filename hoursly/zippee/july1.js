@@ -11,7 +11,7 @@ const reportData =  [
     stores: {
       "Kalyan nagar": 390,
       "Basaweshwar Nagar Mnow": 273,
-      "Yelahanka Mnow":      189,
+      "Jakkur Mnow":      189,
       "Begur Mnow":          456,
       "Thyagaraja Nagar Mnow": 397,
       "Brookfield Mnow":   507,
@@ -26,7 +26,7 @@ const reportData =  [
     stores: {
       "Kalyan nagar": 351,
       "Basaweshwar Nagar Mnow": 245,
-      "Yelahanka Mnow":      170,
+      "Jakkur Mnow":      170,
       "Begur Mnow":          410,
       "Thyagaraja Nagar Mnow": 357,
       "Brookfield Mnow":   456,
@@ -41,7 +41,7 @@ const reportData =  [
     stores: {
       "Kalyan nagar": 377,
       "Basaweshwar Nagar Mnow": 263,
-      "Yelahanka Mnow":      182,
+      "Jakkur Mnow":      182,
       "Begur Mnow":          441,
       "Thyagaraja Nagar Mnow": 383,
       "Brookfield Mnow":   490,
@@ -56,7 +56,7 @@ const reportData =  [
     stores: {
       "Kalyan nagar": 390,
       "Basaweshwar Nagar Mnow": 273,
-      "Yelahanka Mnow":      189,
+      "Jakkur Mnow":      189,
       "Begur Mnow":          456,
       "Thyagaraja Nagar Mnow": 397,
       "Brookfield Mnow":   507,
@@ -71,7 +71,7 @@ const reportData =  [
     stores: {
       "Kalyan nagar": 460,
       "Basaweshwar Nagar Mnow": 321,
-      "Yelahanka Mnow":      222,
+      "Jakkur Mnow":      222,
       "Begur Mnow":          537,
       "Thyagaraja Nagar Mnow": 467,
       "Brookfield Mnow":   597,
@@ -86,7 +86,7 @@ const reportData =  [
     stores: {
       "Kalyan nagar": 508,
       "Basaweshwar Nagar Mnow": 355,
-      "Yelahanka Mnow":      246,
+      "Jakkur Mnow":      246,
       "Begur Mnow":          594,
       "Thyagaraja Nagar Mnow": 517,
       "Brookfield Mnow":   660,
@@ -101,7 +101,7 @@ const reportData =  [
     stores: {
       "Kalyan nagar": 273,
       "Basaweshwar Nagar Mnow": 190,
-      "Yelahanka Mnow":      132,
+      "Jakkur Mnow":      132,
       "Begur Mnow":          319,
       "Thyagaraja Nagar Mnow": 277,
       "Brookfield Mnow":   354,
@@ -116,7 +116,7 @@ const reportData =  [
     stores: {
       "Kalyan nagar": 341,
       "Basaweshwar Nagar Mnow": 238,
-      "Yelahanka Mnow":      165,
+      "Jakkur Mnow":      165,
       "Begur Mnow":          399,
       "Thyagaraja Nagar Mnow": 347,
       "Brookfield Mnow":   443,
@@ -131,7 +131,7 @@ const reportData =  [
     stores: {
       "Kalyan nagar": 339,
       "Basaweshwar Nagar Mnow": 237,
-      "Yelahanka Mnow":      164,
+      "Jakkur Mnow":      164,
       "Begur Mnow":          396,
       "Thyagaraja Nagar Mnow": 344,
       "Brookfield Mnow":   440,
@@ -146,7 +146,7 @@ const reportData =  [
     stores: {
       "Kalyan nagar": 506,
       "Basaweshwar Nagar Mnow": 354,
-      "Yelahanka Mnow":      245,
+      "Jakkur Mnow":      245,
       "Begur Mnow":          592,
       "Thyagaraja Nagar Mnow": 515,
       "Brookfield Mnow":   658,
@@ -161,7 +161,7 @@ const reportData =  [
     stores: {
       "Kalyan nagar": 465,
       "Basaweshwar Nagar Mnow": 325,
-      "Yelahanka Mnow":      225,
+      "Jakkur Mnow":      225,
       "Begur Mnow":          544,
       "Thyagaraja Nagar Mnow": 473,
       "Brookfield Mnow":   604,
@@ -176,7 +176,7 @@ const reportData =  [
     stores: {
       "Kalyan nagar": 527,
       "Basaweshwar Nagar Mnow": 368,
-      "Yelahanka Mnow":      255,
+      "Jakkur Mnow":      255,
       "Begur Mnow":          616,
       "Thyagaraja Nagar Mnow": 536,
       "Brookfield Mnow":   684,
@@ -191,7 +191,7 @@ const reportData =  [
     stores: {
       "Kalyan nagar": 559,
       "Basaweshwar Nagar Mnow": 390,
-      "Yelahanka Mnow":      270,
+      "Jakkur Mnow":      270,
       "Begur Mnow":          653,
       "Thyagaraja Nagar Mnow": 568,
       "Brookfield Mnow":   726,
@@ -206,7 +206,7 @@ const reportData =  [
     stores: {
       "Kalyan nagar": 363,
       "Basaweshwar Nagar Mnow": 253,
-      "Yelahanka Mnow":      175,
+      "Jakkur Mnow":      175,
       "Begur Mnow":          424,
       "Thyagaraja Nagar Mnow": 369,
       "Brookfield Mnow":   471,
@@ -221,7 +221,7 @@ const reportData =  [
     stores: {
       "Kalyan nagar": 452,
       "Basaweshwar Nagar Mnow": 316,
-      "Yelahanka Mnow":      219,
+      "Jakkur Mnow":      219,
       "Begur Mnow":          528,
       "Thyagaraja Nagar Mnow": 460,
       "Brookfield Mnow":   587,
@@ -236,7 +236,7 @@ const reportData =  [
     stores: {
       "Kalyan nagar": 350,
       "Basaweshwar Nagar Mnow": 244,
-      "Yelahanka Mnow":      169,
+      "Jakkur Mnow":      169,
       "Begur Mnow":          409,
       "Thyagaraja Nagar Mnow": 356,
       "Brookfield Mnow":   454,
@@ -251,7 +251,7 @@ const reportData =  [
     stores: {
       "Kalyan nagar": 380,
       "Basaweshwar Nagar Mnow": 266,
-      "Yelahanka Mnow":      184,
+      "Jakkur Mnow":      184,
       "Begur Mnow":          444,
       "Thyagaraja Nagar Mnow": 387,
       "Brookfield Mnow":   494,
@@ -266,7 +266,7 @@ const reportData =  [
     stores: {
       "Kalyan nagar": 395,
       "Basaweshwar Nagar Mnow": 276,
-      "Yelahanka Mnow":      191,
+      "Jakkur Mnow":      191,
       "Begur Mnow":          462,
       "Thyagaraja Nagar Mnow": 402,
       "Brookfield Mnow":   514,
@@ -281,7 +281,7 @@ const reportData =  [
     stores: {
       "Kalyan nagar": 447,
       "Basaweshwar Nagar Mnow": 313,
-      "Yelahanka Mnow":      216,
+      "Jakkur Mnow":      216,
       "Begur Mnow":          523,
       "Thyagaraja Nagar Mnow": 455,
       "Brookfield Mnow":   581,
@@ -296,7 +296,7 @@ const reportData =  [
     stores: {
       "Kalyan nagar": 449,
       "Basaweshwar Nagar Mnow": 314,
-      "Yelahanka Mnow":      217,
+      "Jakkur Mnow":      217,
       "Begur Mnow":          525,
       "Thyagaraja Nagar Mnow": 457,
       "Brookfield Mnow":   584,
@@ -311,7 +311,7 @@ const reportData =  [
     stores: {
       "Kalyan nagar": 332,
       "Basaweshwar Nagar Mnow": 232,
-      "Yelahanka Mnow":      161,
+      "Jakkur Mnow":      161,
       "Begur Mnow":          388,
       "Thyagaraja Nagar Mnow": 338,
       "Brookfield Mnow":   431,
@@ -326,7 +326,7 @@ const reportData =  [
     stores: {
       "Kalyan nagar": 367,
       "Basaweshwar Nagar Mnow": 256,
-      "Yelahanka Mnow":      177,
+      "Jakkur Mnow":      177,
       "Begur Mnow":          429,
       "Thyagaraja Nagar Mnow": 373,
       "Brookfield Mnow":   476,
@@ -341,7 +341,7 @@ const reportData =  [
     stores: {
       "Kalyan nagar": 405,
       "Basaweshwar Nagar Mnow": 283,
-      "Yelahanka Mnow":      196,
+      "Jakkur Mnow":      196,
       "Begur Mnow":          473,
       "Thyagaraja Nagar Mnow": 412,
       "Brookfield Mnow":   526,
@@ -356,7 +356,7 @@ const reportData =  [
     stores: {
       "Kalyan nagar": 437,
       "Basaweshwar Nagar Mnow": 305,
-      "Yelahanka Mnow":      211,
+      "Jakkur Mnow":      211,
       "Begur Mnow":          511,
       "Thyagaraja Nagar Mnow": 445,
       "Brookfield Mnow":   568,
@@ -371,7 +371,7 @@ const reportData =  [
     stores: {
       "Kalyan nagar": 461,
       "Basaweshwar Nagar Mnow": 322,
-      "Yelahanka Mnow":      223,
+      "Jakkur Mnow":      223,
       "Begur Mnow":          539,
       "Thyagaraja Nagar Mnow": 469,
       "Brookfield Mnow":   599,
@@ -386,7 +386,7 @@ const reportData =  [
     stores: {
       "Kalyan nagar": 529,
       "Basaweshwar Nagar Mnow": 370,
-      "Yelahanka Mnow":      256,
+      "Jakkur Mnow":      256,
       "Begur Mnow":          619,
       "Thyagaraja Nagar Mnow": 538,
       "Brookfield Mnow":   688,
@@ -401,7 +401,7 @@ const reportData =  [
     stores: {
       "Kalyan nagar": 573,
       "Basaweshwar Nagar Mnow": 401,
-      "Yelahanka Mnow":      277,
+      "Jakkur Mnow":      277,
       "Begur Mnow":          670,
       "Thyagaraja Nagar Mnow": 583,
       "Brookfield Mnow":   745,
@@ -416,7 +416,7 @@ const reportData =  [
     stores: {
       "Kalyan nagar": 357,
       "Basaweshwar Nagar Mnow": 250,
-      "Yelahanka Mnow":      173,
+      "Jakkur Mnow":      173,
       "Begur Mnow":          418,
       "Thyagaraja Nagar Mnow": 363,
       "Brookfield Mnow":   464,
@@ -431,7 +431,7 @@ const reportData =  [
     stores: {
       "Kalyan nagar": 400,
       "Basaweshwar Nagar Mnow": 279,
-      "Yelahanka Mnow":      193,
+      "Jakkur Mnow":      193,
       "Begur Mnow":          467,
       "Thyagaraja Nagar Mnow": 407,
       "Brookfield Mnow":   519,
@@ -446,7 +446,7 @@ const reportData =  [
     stores: {
       "Kalyan nagar": 404,
       "Basaweshwar Nagar Mnow": 282,
-      "Yelahanka Mnow":      195,
+      "Jakkur Mnow":      195,
       "Begur Mnow":          472,
       "Thyagaraja Nagar Mnow": 411,
       "Brookfield Mnow":   525,
@@ -461,7 +461,7 @@ const reportData =  [
     stores: {
       "Kalyan nagar": 441,
       "Basaweshwar Nagar Mnow": 308,
-      "Yelahanka Mnow":      213,
+      "Jakkur Mnow":      213,
       "Begur Mnow":          515,
       "Thyagaraja Nagar Mnow": 448,
       "Brookfield Mnow":   572,
@@ -793,7 +793,7 @@ function processFile() {
         const includedStores = [
             "Kalyan nagar", 
             "Basaweshwar Nagar Mnow", 
-            "Yelahanka Mnow", 
+            "Jakkur Mnow", 
             "Begur Mnow", 
             "Thyagaraja Nagar Mnow", 
             "Brookfield Mnow", 
@@ -939,7 +939,7 @@ processFile = function() {
         const includedStores = [
             "Kalyan nagar", 
             "Basaweshwar Nagar Mnow", 
-            "Yelahanka Mnow", 
+            "Jakkur Mnow", 
             "Begur Mnow", 
             "Thyagaraja Nagar Mnow", 
             "Brookfield Mnow", 
@@ -1074,7 +1074,7 @@ processFile = function() {
         const includedStores = [
             "Kalyan nagar", 
             "Basaweshwar Nagar Mnow", 
-            "Yelahanka Mnow", 
+            "Jakkur Mnow", 
             "Begur Mnow", 
             "Thyagaraja Nagar Mnow", 
             "Brookfield Mnow", 
@@ -1569,7 +1569,7 @@ document.getElementById("finalTableBtn").addEventListener("click", function () {
 const finalStores = [
   "Kalyan nagar ",
   "Basaweshwar Nagar Mnow",
-  "Yelahanka Mnow",
+  "Jakkur Mnow",
   "Begur Mnow",
   "Thyagaraja Nagar Mnow",
   "Brookfield Mnow",
