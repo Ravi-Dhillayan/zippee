@@ -10,7 +10,7 @@ const reportData = [
         day: "Friday",
     date: "8/1/2025",
         stores: {
-            "Kalyan nagar Mnow": 689,
+            "Kalyan nagar ": 689,
             "Basaweshwar Nagar Mnow": 406,
             "Jakkur Mnow": 266,
             "Begur Mnow": 780,
@@ -25,7 +25,7 @@ const reportData = [
         day: "Saturday",
     date: "8/2/2025",
         stores: {
-            "Kalyan nagar Mnow": 727,
+            "Kalyan nagar ": 727,
             "Basaweshwar Nagar Mnow": 428,
             "Jakkur Mnow": 281,
             "Begur Mnow": 823,
@@ -40,7 +40,7 @@ const reportData = [
         day: "Sunday",
     date: "8/3/2025",
         stores: {
-            "Kalyan nagar Mnow": 665,
+            "Kalyan nagar ": 665,
             "Basaweshwar Nagar Mnow": 391,
             "Jakkur Mnow": 257,
             "Begur Mnow": 753,
@@ -55,7 +55,7 @@ const reportData = [
         day: "Monday",
     date: "8/4/2025",
         stores: {
-            "Kalyan nagar Mnow": 372,
+            "Kalyan nagar ": 372,
             "Basaweshwar Nagar Mnow": 219,
             "Jakkur Mnow": 144,
             "Begur Mnow": 422,
@@ -70,7 +70,7 @@ const reportData = [
         day: "Tuesday",
     date: "8/5/2025",
         stores: {
-            "Kalyan nagar Mnow": 440,
+            "Kalyan nagar ": 440,
             "Basaweshwar Nagar Mnow": 249,
             "Jakkur Mnow": 170,
             "Begur Mnow": 498,
@@ -85,7 +85,7 @@ const reportData = [
         day: "Wednesday",
     date: "8/6/2025",
         stores: {
-            "Kalyan nagar Mnow": 544,
+            "Kalyan nagar ": 544,
             "Basaweshwar Nagar Mnow": 320,
             "Jakkur Mnow": 210,
             "Begur Mnow": 616,
@@ -100,7 +100,7 @@ const reportData = [
         day: "Thursday",
     date: "8/7/2025",
         stores: {
-            "Kalyan nagar Mnow": 572,
+            "Kalyan nagar ": 572,
             "Basaweshwar Nagar Mnow": 337,
             "Jakkur Mnow": 221,
             "Begur Mnow": 648,
@@ -115,7 +115,7 @@ const reportData = [
         day: "Friday",
     date: "8/8/2025",
         stores: {
-            "Kalyan nagar Mnow": 519,
+            "Kalyan nagar ": 519,
             "Basaweshwar Nagar Mnow": 306,
             "Jakkur Mnow": 201,
             "Begur Mnow": 588,
@@ -130,7 +130,7 @@ const reportData = [
         day: "Saturday",
     date: "8/9/2025",
         stores: {
-            "Kalyan nagar Mnow": 561,
+            "Kalyan nagar ": 561,
             "Basaweshwar Nagar Mnow": 331,
             "Jakkur Mnow": 216,
             "Begur Mnow": 635,
@@ -145,7 +145,7 @@ const reportData = [
         day: "Sunday",
     date: "8/10/2025",
         stores: {
-            "Kalyan nagar Mnow": 568,
+            "Kalyan nagar ": 568,
             "Basaweshwar Nagar Mnow": 335,
             "Jakkur Mnow": 219,
             "Begur Mnow": 643,
@@ -160,7 +160,7 @@ const reportData = [
         day: "Monday",
     date: "8/11/2025",
         stores: {
-            "Kalyan nagar Mnow": 389,
+            "Kalyan nagar ": 389,
             "Basaweshwar Nagar Mnow": 245,
             "Jakkur Mnow": 210,
             "Begur Mnow": 449,
@@ -175,7 +175,7 @@ const reportData = [
         day: "Tuesday",
     date: "8/12/2025",
         stores: {
-            "Kalyan nagar Mnow": 409,
+            "Kalyan nagar ": 409,
             "Basaweshwar Nagar Mnow": 258,
             "Jakkur Mnow": 220,
             "Begur Mnow": 472,
@@ -190,7 +190,7 @@ const reportData = [
         day: "Wednesday",
     date: "8/13/2025",
         stores: {
-            "Kalyan nagar Mnow": 399,
+            "Kalyan nagar ": 399,
             "Basaweshwar Nagar Mnow": 251,
             "Jakkur Mnow": 215,
             "Begur Mnow": 460,
@@ -205,7 +205,7 @@ const reportData = [
         day: "Thursday",
     date: "8/14/2025",
         stores: {
-            "Kalyan nagar Mnow": 468,
+            "Kalyan nagar ": 468,
             "Basaweshwar Nagar Mnow": 295,
             "Jakkur Mnow": 225,
             "Begur Mnow": 541,
@@ -220,7 +220,7 @@ const reportData = [
         day: "Friday",
     date: "8/15/2025",
         stores: {
-            "Kalyan nagar Mnow": 489,
+            "Kalyan nagar ": 489,
             "Basaweshwar Nagar Mnow": 309,
             "Jakkur Mnow": 264,
             "Begur Mnow": 565,
@@ -235,7 +235,7 @@ const reportData = [
         day: "Saturday",
     date: "8/16/2025",
         stores: {
-            "Kalyan nagar Mnow": 500,
+            "Kalyan nagar ": 500,
             "Basaweshwar Nagar Mnow": 315.4,
             "Jakkur Mnow": 270,
             "Begur Mnow": 577,
@@ -250,7 +250,7 @@ const reportData = [
         day: "Sunday",
     date: "8/17/2025",
         stores: {
-            "Kalyan nagar Mnow": 449,
+            "Kalyan nagar ": 449,
             "Basaweshwar Nagar Mnow": 284.05,
             "Jakkur Mnow": 242,
             "Begur Mnow": 519,
@@ -265,7 +265,7 @@ const reportData = [
         day: "Monday",
     date: "8/18/2025",
         stores: {
-            "Kalyan nagar Mnow": 346,
+            "Kalyan nagar ": 346,
             "Basaweshwar Nagar Mnow": 217.55,
             "Jakkur Mnow": 186,
             "Begur Mnow": 399,
@@ -280,7 +280,7 @@ const reportData = [
         day: "Tuesday",
     date: "8/19/2025",
         stores: {
-            "Kalyan nagar Mnow": 379,
+            "Kalyan nagar ": 379,
             "Basaweshwar Nagar Mnow": 239.4,
             "Jakkur Mnow": 204,
             "Begur Mnow": 438,
@@ -295,7 +295,7 @@ const reportData = [
         day: "Wednesday",
     date: "8/20/2025",
         stores: {
-            "Kalyan nagar Mnow": 410,
+            "Kalyan nagar ": 410,
             "Basaweshwar Nagar Mnow": 258.4,
             "Jakkur Mnow": 221,
             "Begur Mnow": 474,
@@ -310,7 +310,7 @@ const reportData = [
         day: "Thursday",
     date: "8/21/2025",
         stores: {
-            "Kalyan nagar Mnow": 439,
+            "Kalyan nagar ": 439,
             "Basaweshwar Nagar Mnow": 276.45,
             "Jakkur Mnow": 237,
             "Begur Mnow": 506,
@@ -325,7 +325,7 @@ const reportData = [
         day: "Friday",
     date: "8/22/2025",
         stores: {
-            "Kalyan nagar Mnow": 457,
+            "Kalyan nagar ": 457,
             "Basaweshwar Nagar Mnow": 288.8,
             "Jakkur Mnow": 246,
             "Begur Mnow": 528,
@@ -340,7 +340,7 @@ const reportData = [
         day: "Saturday",
     date: "8/23/2025",
         stores: {
-            "Kalyan nagar Mnow": 491,
+            "Kalyan nagar ": 491,
             "Basaweshwar Nagar Mnow": 309.7,
             "Jakkur Mnow": 246,
             "Begur Mnow": 567,
@@ -355,7 +355,7 @@ const reportData = [
         day: "Sunday",
     date: "8/24/2025",
         stores: {
-            "Kalyan nagar Mnow": 483,
+            "Kalyan nagar ": 483,
             "Basaweshwar Nagar Mnow": 304.95,
             "Jakkur Mnow": 260,
             "Begur Mnow": 558,
@@ -370,7 +370,7 @@ const reportData = [
         day: "Monday",
     date: "8/25/2025",
         stores: {
-            "Kalyan nagar Mnow": 424,
+            "Kalyan nagar ": 424,
             "Basaweshwar Nagar Mnow": 266.95,
             "Jakkur Mnow": 228,
             "Begur Mnow": 489,
@@ -385,7 +385,7 @@ const reportData = [
         day: "Tuesday",
     date: "8/26/2025",
         stores: {
-            "Kalyan nagar Mnow": 492,
+            "Kalyan nagar ": 492,
             "Basaweshwar Nagar Mnow": 310.65,
             "Jakkur Mnow": 265,
             "Begur Mnow": 568,
@@ -400,7 +400,7 @@ const reportData = [
         day: "Wednesday",
     date: "8/27/2025",
         stores: {
-            "Kalyan nagar Mnow": 489,
+            "Kalyan nagar ": 489,
             "Basaweshwar Nagar Mnow": 308.75,
             "Jakkur Mnow": 264,
             "Begur Mnow": 565,
@@ -415,7 +415,7 @@ const reportData = [
         day: "Thursday",
     date: "8/28/2025",
         stores: {
-            "Kalyan nagar Mnow": 484,
+            "Kalyan nagar ": 484,
             "Basaweshwar Nagar Mnow": 304.95,
             "Jakkur Mnow": 260,
             "Begur Mnow": 559,
@@ -430,7 +430,7 @@ const reportData = [
         day: "Friday",
     date: "8/29/2025",
         stores: {
-            "Kalyan nagar Mnow": 505,
+            "Kalyan nagar ": 505,
             "Basaweshwar Nagar Mnow": 319.2,
             "Jakkur Mnow": 273,
             "Begur Mnow": 584,
@@ -445,7 +445,7 @@ const reportData = [
         day: "Saturday",
     date: "8/30/2025",
         stores: {
-            "Kalyan nagar Mnow": 557,
+            "Kalyan nagar ": 557,
             "Basaweshwar Nagar Mnow": 351.5,
             "Jakkur Mnow": 300,
             "Begur Mnow": 643,
@@ -460,7 +460,7 @@ const reportData = [
         day: "Sunday",
     date: "8/31/2025",
         stores: {
-            "Kalyan nagar Mnow": 590,
+            "Kalyan nagar ": 590,
             "Basaweshwar Nagar Mnow": 372.4,
             "Jakkur Mnow": 318,
             "Begur Mnow": 681,
