@@ -8,7 +8,7 @@ function toggleMenu() {
 const reportData = [
     {
         day: "Friday",
-        date: "08-01-2025",
+    date: "8/1/2025",
         stores: {
             "Kalyan nagar Mnow": 689,
             "Basaweshwar Nagar Mnow": 406,
@@ -23,7 +23,7 @@ const reportData = [
     },
     {
         day: "Saturday",
-        date: "08-02-2025",
+    date: "8/2/2025",
         stores: {
             "Kalyan nagar Mnow": 727,
             "Basaweshwar Nagar Mnow": 428,
@@ -38,7 +38,7 @@ const reportData = [
     },
     {
         day: "Sunday",
-        date: "08-03-2025",
+    date: "8/3/2025",
         stores: {
             "Kalyan nagar Mnow": 665,
             "Basaweshwar Nagar Mnow": 391,
@@ -53,7 +53,7 @@ const reportData = [
     },
     {
         day: "Monday",
-        date: "08-04-2025",
+    date: "8/4/2025",
         stores: {
             "Kalyan nagar Mnow": 372,
             "Basaweshwar Nagar Mnow": 219,
@@ -68,7 +68,7 @@ const reportData = [
     },
     {
         day: "Tuesday",
-        date: "08-05-2025",
+    date: "8/5/2025",
         stores: {
             "Kalyan nagar Mnow": 440,
             "Basaweshwar Nagar Mnow": 249,
@@ -83,7 +83,7 @@ const reportData = [
     },
     {
         day: "Wednesday",
-        date: "08-06-2025",
+    date: "8/6/2025",
         stores: {
             "Kalyan nagar Mnow": 544,
             "Basaweshwar Nagar Mnow": 320,
@@ -98,7 +98,7 @@ const reportData = [
     },
     {
         day: "Thursday",
-        date: "08-07-2025",
+    date: "8/7/2025",
         stores: {
             "Kalyan nagar Mnow": 572,
             "Basaweshwar Nagar Mnow": 337,
@@ -113,7 +113,7 @@ const reportData = [
     },
     {
         day: "Friday",
-        date: "08-08-2025",
+    date: "8/8/2025",
         stores: {
             "Kalyan nagar Mnow": 519,
             "Basaweshwar Nagar Mnow": 306,
@@ -128,7 +128,7 @@ const reportData = [
     },
     {
         day: "Saturday",
-        date: "08-09-2025",
+    date: "8/9/2025",
         stores: {
             "Kalyan nagar Mnow": 561,
             "Basaweshwar Nagar Mnow": 331,
@@ -143,7 +143,7 @@ const reportData = [
     },
     {
         day: "Sunday",
-        date: "08-10-2025",
+    date: "8/10/2025",
         stores: {
             "Kalyan nagar Mnow": 568,
             "Basaweshwar Nagar Mnow": 335,
@@ -158,7 +158,7 @@ const reportData = [
     },
     {
         day: "Monday",
-        date: "08-11-2025",
+    date: "8/11/2025",
         stores: {
             "Kalyan nagar Mnow": 389,
             "Basaweshwar Nagar Mnow": 245,
@@ -173,7 +173,7 @@ const reportData = [
     },
     {
         day: "Tuesday",
-        date: "08-12-2025",
+    date: "8/12/2025",
         stores: {
             "Kalyan nagar Mnow": 409,
             "Basaweshwar Nagar Mnow": 258,
@@ -188,7 +188,7 @@ const reportData = [
     },
     {
         day: "Wednesday",
-        date: "08-13-2025",
+    date: "8/13/2025",
         stores: {
             "Kalyan nagar Mnow": 399,
             "Basaweshwar Nagar Mnow": 251,
@@ -203,7 +203,7 @@ const reportData = [
     },
     {
         day: "Thursday",
-        date: "08-14-2025",
+    date: "8/14/2025",
         stores: {
             "Kalyan nagar Mnow": 468,
             "Basaweshwar Nagar Mnow": 295,
@@ -218,7 +218,7 @@ const reportData = [
     },
     {
         day: "Friday",
-        date: "08-15-2025",
+    date: "8/15/2025",
         stores: {
             "Kalyan nagar Mnow": 489,
             "Basaweshwar Nagar Mnow": 309,
@@ -233,7 +233,7 @@ const reportData = [
     },
     {
         day: "Saturday",
-        date: "08-16-2025",
+    date: "8/16/2025",
         stores: {
             "Kalyan nagar Mnow": 500,
             "Basaweshwar Nagar Mnow": 315.4,
@@ -248,7 +248,7 @@ const reportData = [
     },
     {
         day: "Sunday",
-        date: "08-17-2025",
+    date: "8/17/2025",
         stores: {
             "Kalyan nagar Mnow": 449,
             "Basaweshwar Nagar Mnow": 284.05,
@@ -263,7 +263,7 @@ const reportData = [
     },
     {
         day: "Monday",
-        date: "08-18-2025",
+    date: "8/18/2025",
         stores: {
             "Kalyan nagar Mnow": 346,
             "Basaweshwar Nagar Mnow": 217.55,
@@ -278,7 +278,7 @@ const reportData = [
     },
     {
         day: "Tuesday",
-        date: "08-19-2025",
+    date: "8/19/2025",
         stores: {
             "Kalyan nagar Mnow": 379,
             "Basaweshwar Nagar Mnow": 239.4,
@@ -293,7 +293,7 @@ const reportData = [
     },
     {
         day: "Wednesday",
-        date: "08-20-2025",
+    date: "8/20/2025",
         stores: {
             "Kalyan nagar Mnow": 410,
             "Basaweshwar Nagar Mnow": 258.4,
@@ -308,7 +308,7 @@ const reportData = [
     },
     {
         day: "Thursday",
-        date: "08-21-2025",
+    date: "8/21/2025",
         stores: {
             "Kalyan nagar Mnow": 439,
             "Basaweshwar Nagar Mnow": 276.45,
@@ -323,7 +323,7 @@ const reportData = [
     },
     {
         day: "Friday",
-        date: "08-22-2025",
+    date: "8/22/2025",
         stores: {
             "Kalyan nagar Mnow": 457,
             "Basaweshwar Nagar Mnow": 288.8,
@@ -338,7 +338,7 @@ const reportData = [
     },
     {
         day: "Saturday",
-        date: "08-23-2025",
+    date: "8/23/2025",
         stores: {
             "Kalyan nagar Mnow": 491,
             "Basaweshwar Nagar Mnow": 309.7,
@@ -353,7 +353,7 @@ const reportData = [
     },
     {
         day: "Sunday",
-        date: "08-24-2025",
+    date: "8/24/2025",
         stores: {
             "Kalyan nagar Mnow": 483,
             "Basaweshwar Nagar Mnow": 304.95,
@@ -368,7 +368,7 @@ const reportData = [
     },
     {
         day: "Monday",
-        date: "08-25-2025",
+    date: "8/25/2025",
         stores: {
             "Kalyan nagar Mnow": 424,
             "Basaweshwar Nagar Mnow": 266.95,
@@ -383,7 +383,7 @@ const reportData = [
     },
     {
         day: "Tuesday",
-        date: "08-26-2025",
+    date: "8/26/2025",
         stores: {
             "Kalyan nagar Mnow": 492,
             "Basaweshwar Nagar Mnow": 310.65,
@@ -398,7 +398,7 @@ const reportData = [
     },
     {
         day: "Wednesday",
-        date: "08-27-2025",
+    date: "8/27/2025",
         stores: {
             "Kalyan nagar Mnow": 489,
             "Basaweshwar Nagar Mnow": 308.75,
@@ -413,7 +413,7 @@ const reportData = [
     },
     {
         day: "Thursday",
-        date: "08-28-2025",
+    date: "8/28/2025",
         stores: {
             "Kalyan nagar Mnow": 484,
             "Basaweshwar Nagar Mnow": 304.95,
@@ -428,7 +428,7 @@ const reportData = [
     },
     {
         day: "Friday",
-        date: "08-29-2025",
+    date: "8/29/2025",
         stores: {
             "Kalyan nagar Mnow": 505,
             "Basaweshwar Nagar Mnow": 319.2,
@@ -443,7 +443,7 @@ const reportData = [
     },
     {
         day: "Saturday",
-        date: "08-30-2025",
+    date: "8/30/2025",
         stores: {
             "Kalyan nagar Mnow": 557,
             "Basaweshwar Nagar Mnow": 351.5,
@@ -458,7 +458,7 @@ const reportData = [
     },
     {
         day: "Sunday",
-        date: "08-31-2025",
+    date: "8/31/2025",
         stores: {
             "Kalyan nagar Mnow": 590,
             "Basaweshwar Nagar Mnow": 372.4,
