@@ -1,4 +1,4 @@
-function toggleMenu() {
+function zippeeToggleMenu() {
     const navLinks = document.querySelector(".nav-links");
     navLinks.classList.toggle("active");
 }
@@ -1316,9 +1316,9 @@ document.getElementById("finalTableBtn").addEventListener("click", function () {
             let hide = h.toLowerCase().includes('cancelled orders') || h.toLowerCase().includes('attempted orders') || h.toLowerCase().includes('deep pain') && !h.toLowerCase().includes('%');
             return `<th${hide ? ' class="hide-col"' : ''}>${h}</th>`;
         }).join("")}
-        ${attemptedOrdersPctHeaders.map(h => `<th>Additional Orders(${h})</th>`).join("")}
+        ${attemptedOrdersPctHeaders.map(h => `<th>Order Attainment (${h})</th>`).join("")}
         <th>Deep Pain (Order Count)</th>
-        <th>Additional Orders</th>
+        <th>Order Attainment </th>
         <th class="hide-corrected-deep-pain">Corrected DeepPain</th>
         <th>Actual Deep_Pain</th>
     </tr></thead><tbody>`;
@@ -1351,7 +1351,7 @@ document.getElementById("finalTableBtn").addEventListener("click", function () {
                 mergedHTML += `<td${hide ? ' class="hide-col"' : ''}>${val}</td>`;
             }
         });
-        // Additional Orderscolumns for only non-buffer Projected Orders columns
+        // Order Attainment columns for only non-buffer Projected Orders columns
         if (projectionData[store]) {
             attemptedOrdersPctIndices.forEach((colIdx, arrIdx) => {
                 let projected = parseInt(projectionData[store][colIdx]) || 0;
@@ -1373,7 +1373,7 @@ document.getElementById("finalTableBtn").addEventListener("click", function () {
         let deepPainOrderCount = ((totalOrders * deepPainPercent) / 100);
         deepPainOrderCounts.push(deepPainOrderCount);
         mergedHTML += `<td>${deepPainOrderCount.toFixed(2)}</td>`;
-        // Additional Orders column
+        // Order Attainment  column
         let projectedBuffer = projectionData[store] ? parseFloat(projectionData[store][2]) || 0 : 0;
         let additionalOrders = (totalOrders - projectedBuffer) < 0 ? 0 : (totalOrders - projectedBuffer);
         additionalOrdersList.push(additionalOrders);
@@ -1446,7 +1446,7 @@ document.getElementById("finalTableBtn").addEventListener("click", function () {
         mergedHTML += `<td></td>`;
     });
     mergedHTML += `<td></td>`; // Deep Pain (Order Count) grand total (not needed)
-    mergedHTML += `<td></td>`; // Additional Orders grand total (not needed)
+    mergedHTML += `<td></td>`; // Order Attainment  grand total (not needed)
     mergedHTML += `<td></td>`; // Corrected DeepPain grand total (not needed)
     mergedHTML += `<td></td>`; // Actual Deep_Pain grand total (not needed)
     mergedHTML += `</tr></tfoot>`;
@@ -1488,7 +1488,7 @@ document.getElementById("finalTableBtn").addEventListener("click", function () {
         }
         // Grand total
         document.getElementById('merged-footer-userinput-grand').textContent = colTotals.reduce((a, b) => a + b, 0);
-        // Update Additional Ordersaverage for each column (only non-buffer)
+        // Update Order Attainment average for each column (only non-buffer)
         attemptedOrdersPctIndices.forEach((colIdx) => {
             let sum = 0, count = 0;
             document.querySelectorAll(`.attempted-pct-cell[data-col="${colIdx}"]`).forEach(cell => {
@@ -1507,7 +1507,7 @@ document.getElementById("finalTableBtn").addEventListener("click", function () {
     // Listen for input changes
     document.querySelectorAll('.merged-input').forEach(input => {
         input.addEventListener('input', function() {
-            // Update Additional Ordersfor this row if needed (if user changes total orders input)
+            // Update Order Attainment for this row if needed (if user changes total orders input)
             const row = input.closest('tr');
             if (row) {
                 // Find the total orders cell and projected orders cells in this row
@@ -1598,7 +1598,7 @@ function attemptedOrdersPercent(totalOrders, projectedOrders) {
   return ((totalOrders / projectedOrders) * 100).toFixed(2);
 }
 
-// Helper to get the correct Projected Orders for Additional Orderscalculation
+// Helper to get the correct Projected Orders for Order Attainment calculation
 function getProjectedOrdersForAttempted(store) {
   // Use the Projected Orders | till 9-10 AM column (second column after store name)
   const projectionTable = document.getElementById("reportTable");
