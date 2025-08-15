@@ -1138,7 +1138,7 @@ function generateSummaryPage(storeOrders, deliveredOrders, attemptedOrders, canc
                     <th>Cancelled Orders</th>
                     <th>Cancelled %</th>
                     <th>Delivered Orders</th>
-                    <th>Additional Orders</th>
+                    <th>Attempted Orders</th>
                     <th>Deep Pain</th>
                     <th>Deep Pain %</th>
                     <th>Actual Riders</th>
@@ -1318,7 +1318,7 @@ document.getElementById("finalTableBtn").addEventListener("click", function () {
         }).join("")}
         ${attemptedOrdersPctHeaders.map(h => `<th>Order Attainment (${h})</th>`).join("")}
         <th>Deep Pain (Order Count)</th>
-        <th>Order Attainment </th>
+        <th>Additional Orders</th>
         <th class="hide-corrected-deep-pain">Corrected DeepPain</th>
         <th>Actual Deep_Pain</th>
     </tr></thead><tbody>`;
@@ -1708,5 +1708,4 @@ function excelDateToJSDate(serial) {
 function formatDate(dt) {
     const pad = n => n < 10 ? '0' + n : n;
     return `${pad(dt.getMonth() + 1)}-${pad(dt.getDate())}-${dt.getFullYear()} ${pad(dt.getHours())}:${pad(dt.getMinutes())}`;
-
 }
